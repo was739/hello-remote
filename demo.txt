@@ -1,1 +1,2 @@
 Here is some text we are addint to demo.txt
+Here is a new line.
